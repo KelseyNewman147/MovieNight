@@ -1,2 +1,2 @@
 # MovieNight
-Randomly choose a movie using the Netflix API for your movie night!
+Randomly choose a movie using The Movie Database API for your movie night!
